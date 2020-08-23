@@ -1,0 +1,200 @@
+develpercode|projectno|projectname|projectestcost|billingcost|dateofbilling|taskcd|TaskTxt
+D7120|P279|Website Design|4878000|6222|2016-11-20|PC|Programming
+D7182|P338|IT Team Reorg|4146000|9897|2016-11-20|DS|Design Work
+D7070|P368|SQL Query Reporting|5594000|3208|2016-11-21|DS|Design Work
+D7118|P287|Data Retrofit|2052000|6246|2016-11-21|PC|Programming
+D7059|P264|Security Penetration Testing|3994000|7700|2016-11-22|DO|Documentation
+D7070|P287|Data Retrofit|2052000|8155|2016-11-23|DO|Documentation
+D7120|P264|Security Penetration Testing|3994000|8214|2016-11-24|PC|Programming
+D7120|P368|SQL Query Reporting|5594000|1186|2016-11-25|DS|Design Work
+D7120|P307|Data Cleaning|6589000|4545|2016-11-26|PC|Programming
+D7070|P287|Data Retrofit|2052000|5963|2016-11-26|DO|Documentation
+D7120|P287|Data Retrofit|2052000|6536|2016-11-26|DS|Design Work
+D7125|P279|Website Design|4878000|2610|2016-11-29|DO|Documentation
+D7180|P368|SQL Query Reporting|5594000|1379|2016-11-29|PC|Programming
+D7125|P307|Data Cleaning|6589000|6243|2016-11-29|DO|Documentation
+D7070|P307|Data Cleaning|6589000|1178|2016-11-30|DO|Documentation
+D7118|P338|IT Team Reorg|4146000|9614|2016-11-30|DS|Design Work
+D7118|P264|Security Penetration Testing|3994000|7166|2016-11-30|DS|Design Work
+D7182|P368|SQL Query Reporting|5594000|1563|2016-12-01|PC|Programming
+D7180|P307|Data Cleaning|6589000|8169|2016-12-01|DS|Design Work
+D7120|P368|SQL Query Reporting|5594000|7646|2016-12-03|DO|Documentation
+D7070|P307|Data Cleaning|6589000|8088|2016-12-04|DO|Documentation
+D7125|P264|Security Penetration Testing|3994000|2238|2016-12-05|PC|Programming
+D7190|P307|Data Cleaning|6589000|3281|2016-12-06|DO|Documentation
+D7118|P287|Data Retrofit|2052000|8235|2016-12-07|DS|Design Work
+D7120|P368|SQL Query Reporting|5594000|1725|2016-12-08|DS|Design Work
+D7182|P307|Data Cleaning|6589000|7130|2016-12-14|DS|Design Work
+D7059|P264|Security Penetration Testing|3994000|7676|2016-12-14|DO|Documentation
+D7145|P287|Data Retrofit|2052000|4729|2016-12-16|DS|Design Work
+D7125|P264|Security Penetration Testing|3994000|5119|2016-12-18|DO|Documentation
+D7180|P307|Data Cleaning|6589000|6517|2016-12-18|DS|Design Work
+D7120|P338|IT Team Reorg|4146000|9813|2016-12-18|DS|Design Work
+D7118|P307|Data Cleaning|6589000|7913|2016-12-20|DS|Design Work
+D7180|P287|Data Retrofit|2052000|4240|2016-12-26|DS|Design Work
+D7059|P338|IT Team Reorg|4146000|4742|2016-12-27|PC|Programming
+D7145|P307|Data Cleaning|6589000|8858|2016-12-30|DS|Design Work
+D7120|P264|Security Penetration Testing|3994000|5175|2017-01-01|DS|Design Work
+D7059|P368|SQL Query Reporting|5594000|9805|2017-01-02|PC|Programming
+D7118|P279|Website Design|4878000|7852|2017-01-06|DO|Documentation
+D7120|P279|Website Design|4878000|9366|2017-01-06|DO|Documentation
+D7070|P264|Security Penetration Testing|3994000|4026|2017-01-07|DS|Design Work
+D7118|P307|Data Cleaning|6589000|1040|2017-01-07|PC|Programming
+D7120|P279|Website Design|4878000|5546|2017-01-08|DS|Design Work
+D7182|P338|IT Team Reorg|4146000|1617|2017-01-09|PC|Programming
+D7120|P279|Website Design|4878000|1252|2017-01-10|PC|Programming
+D7180|P264|Security Penetration Testing|3994000|8342|2017-01-14|DS|Design Work
+D7120|P368|SQL Query Reporting|5594000|5834|2017-01-15|PC|Programming
+D7180|P279|Website Design|4878000|8090|2017-01-15|PC|Programming
+D7190|P368|SQL Query Reporting|5594000|7876|2017-01-15|PC|Programming
+D7120|P368|SQL Query Reporting|5594000|9448|2017-01-16|DO|Documentation
+D7120|P279|Website Design|4878000|6336|2017-01-19|DS|Design Work
+D7070|P307|Data Cleaning|6589000|8478|2017-01-20|DO|Documentation
+D7125|P338|IT Team Reorg|4146000|4173|2017-01-21|DS|Design Work
+D7190|P279|Website Design|4878000|3390|2017-01-21|PC|Programming
+D7070|P368|SQL Query Reporting|5594000|6072|2017-01-23|DO|Documentation
+D7120|P264|Security Penetration Testing|3994000|9447|2017-01-24|DO|Documentation
+D7190|P368|SQL Query Reporting|5594000|6487|2017-01-25|DS|Design Work
+D7190|P287|Data Retrofit|2052000|9360|2017-01-26|DO|Documentation
+D7145|P307|Data Cleaning|6589000|5180|2017-01-28|DS|Design Work
+D7118|P368|SQL Query Reporting|5594000|6560|2017-01-29|PC|Programming
+D7118|P287|Data Retrofit|2052000|3351|2017-01-29|DO|Documentation
+D7070|P368|SQL Query Reporting|5594000|3608|2017-01-30|DO|Documentation
+D7145|P287|Data Retrofit|2052000|4284|2017-01-31|DS|Design Work
+D7120|P368|SQL Query Reporting|5594000|9368|2017-02-05|DS|Design Work
+D7120|P307|Data Cleaning|6589000|8902|2017-02-07|DS|Design Work
+D7182|P264|Security Penetration Testing|3994000|5325|2017-02-07|DO|Documentation
+D7182|P368|SQL Query Reporting|5594000|6132|2017-02-08|DS|Design Work
+D7125|P264|Security Penetration Testing|3994000|6153|2017-02-10|PC|Programming
+D7180|P264|Security Penetration Testing|3994000|6563|2017-02-11|PC|Programming
+D7118|P264|Security Penetration Testing|3994000|4972|2017-02-14|PC|Programming
+D7118|P307|Data Cleaning|6589000|9288|2017-02-14|PC|Programming
+D7120|P287|Data Retrofit|2052000|8138|2017-02-16|DS|Design Work
+D7070|P338|IT Team Reorg|4146000|7804|2017-02-16|DS|Design Work
+D7059|P279|Website Design|4878000|9047|2017-02-19|PC|Programming
+D7118|P338|IT Team Reorg|4146000|3376|2017-02-19|DS|Design Work
+D7125|P264|Security Penetration Testing|3994000|8743|2017-02-21|PC|Programming
+D7145|P368|SQL Query Reporting|5594000|7298|2017-02-21|PC|Programming
+D7190|P287|Data Retrofit|2052000|8758|2017-02-26|DO|Documentation
+D7120|P307|Data Cleaning|6589000|4827|2017-02-27|DO|Documentation
+D7120|P338|IT Team Reorg|4146000|4267|2017-03-02|PC|Programming
+D7190|P338|IT Team Reorg|4146000|8886|2017-03-04|DO|Documentation
+D7180|P307|Data Cleaning|6589000|4819|2017-03-04|DS|Design Work
+D7118|P279|Website Design|4878000|2511|2017-03-06|DS|Design Work
+D7118|P287|Data Retrofit|2052000|3190|2017-03-09|DO|Documentation
+D7118|P264|Security Penetration Testing|3994000|5747|2017-03-10|DO|Documentation
+D7190|P287|Data Retrofit|2052000|4804|2017-03-10|PC|Programming
+D7070|P307|Data Cleaning|6589000|9280|2017-03-11|DS|Design Work
+D7118|P264|Security Penetration Testing|3994000|3482|2017-03-11|DO|Documentation
+D7120|P264|Security Penetration Testing|3994000|2174|2017-03-13|PC|Programming
+D7120|P264|Security Penetration Testing|3994000|7202|2017-03-13|DO|Documentation
+D7067|P368|SQL Query Reporting|5594000|9949|2017-03-14|DO|Documentation
+D7120|P307|Data Cleaning|6589000|1462|2017-03-17|DO|Documentation
+D7118|P338|IT Team Reorg|4146000|1189|2017-03-17|DS|Design Work
+D7125|P279|Website Design|4878000|4226|2017-03-23|PC|Programming
+D7190|P368|SQL Query Reporting|5594000|7046|2017-03-25|DO|Documentation
+D7070|P368|SQL Query Reporting|5594000|3398|2017-03-26|DO|Documentation
+D7070|P338|IT Team Reorg|4146000|1883|2017-03-27|DO|Documentation
+D7059|P338|IT Team Reorg|4146000|3576|2017-03-27|DO|Documentation
+D7120|P368|SQL Query Reporting|5594000|2040|2017-03-27|DO|Documentation
+D7180|P338|IT Team Reorg|4146000|3774|2017-03-27|PC|Programming
+D7070|P368|SQL Query Reporting|5594000|2166|2017-03-28|DO|Documentation
+D7070|P279|Website Design|4878000|9490|2017-03-31|DS|Design Work
+D7125|P368|SQL Query Reporting|5594000|7695|2017-03-31|DO|Documentation
+D7182|P287|Data Retrofit|2052000|9745|2017-03-31|PC|Programming
+D7118|P338|IT Team Reorg|4146000|2036|2017-04-01|DS|Design Work
+D7145|P368|SQL Query Reporting|5594000|7364|2017-04-01|DS|Design Work
+D7059|P307|Data Cleaning|6589000|9784|2017-04-04|PC|Programming
+D7120|P307|Data Cleaning|6589000|4084|2017-04-06|PC|Programming
+D7145|P368|SQL Query Reporting|5594000|9197|2017-04-08|PC|Programming
+D7190|P287|Data Retrofit|2052000|3134|2017-04-10|DS|Design Work
+D7070|P279|Website Design|4878000|8316|2017-04-10|DO|Documentation
+D7190|P279|Website Design|4878000|1131|2017-04-12|DS|Design Work
+D7118|P264|Security Penetration Testing|3994000|1002|2017-04-12|DS|Design Work
+D7180|P287|Data Retrofit|2052000|1616|2017-04-15|DS|Design Work
+D7120|P368|SQL Query Reporting|5594000|7558|2017-04-16|DO|Documentation
+D7180|P264|Security Penetration Testing|3994000|4388|2017-04-18|DS|Design Work
+D7118|P368|SQL Query Reporting|5594000|9220|2017-04-20|DS|Design Work
+D7120|P287|Data Retrofit|2052000|1829|2017-04-20|DO|Documentation
+D7145|P279|Website Design|4878000|2228|2017-04-22|PC|Programming
+D7059|P368|SQL Query Reporting|5594000|2172|2017-04-23|DS|Design Work
+D7182|P287|Data Retrofit|2052000|9589|2017-04-26|DO|Documentation
+D7120|P264|Security Penetration Testing|3994000|4746|2017-05-01|DO|Documentation
+D7118|P279|Website Design|4878000|8275|2017-05-05|DO|Documentation
+D7067|P368|SQL Query Reporting|5594000|3058|2017-05-06|DO|Documentation
+D7125|P287|Data Retrofit|2052000|2570|2017-05-08|DS|Design Work
+D7182|P287|Data Retrofit|2052000|3476|2017-05-10|DS|Design Work
+D7125|P287|Data Retrofit|2052000|6379|2017-05-10|DS|Design Work
+D7070|P279|Website Design|4878000|3820|2017-05-10|DS|Design Work
+D7145|P287|Data Retrofit|2052000|9758|2017-05-11|PC|Programming
+D7059|P338|IT Team Reorg|4146000|2957|2017-05-13|DS|Design Work
+D7182|P307|Data Cleaning|6589000|5670|2017-05-15|DS|Design Work
+D7118|P264|Security Penetration Testing|3994000|8433|2017-05-15|DO|Documentation
+D7118|P279|Website Design|4878000|8278|2017-05-15|PC|Programming
+D7059|P338|IT Team Reorg|4146000|6435|2017-05-17|PC|Programming
+D7180|P287|Data Retrofit|2052000|4090|2017-05-20|DS|Design Work
+D7118|P287|Data Retrofit|2052000|7797|2017-05-20|PC|Programming
+D7120|P264|Security Penetration Testing|3994000|1807|2017-05-23|PC|Programming
+D7059|P368|SQL Query Reporting|5594000|9483|2017-05-23|DO|Documentation
+D7120|P338|IT Team Reorg|4146000|1884|2017-05-24|DO|Documentation
+D7118|P368|SQL Query Reporting|5594000|1416|2017-05-24|DS|Design Work
+D7125|P264|Security Penetration Testing|3994000|4968|2017-05-26|PC|Programming
+D7120|P279|Website Design|4878000|7785|2017-05-27|DO|Documentation
+D7190|P307|Data Cleaning|6589000|5802|2017-05-27|PC|Programming
+D7059|P307|Data Cleaning|6589000|4607|2017-05-27|DS|Design Work
+D7067|P338|IT Team Reorg|4146000|2611|2017-05-28|DO|Documentation
+D7182|P279|Website Design|4878000|9329|2017-05-29|PC|Programming
+D7120|P338|IT Team Reorg|4146000|4187|2017-05-30|DS|Design Work
+D7125|P368|SQL Query Reporting|5594000|2330|2017-05-30|DS|Design Work
+D7145|P338|IT Team Reorg|4146000|1286|2017-05-31|DO|Documentation
+D7182|P338|IT Team Reorg|4146000|3896|2017-06-02|PC|Programming
+D7125|P279|Website Design|4878000|8795|2017-06-02|DO|Documentation
+D7120|P279|Website Design|4878000|9221|2017-06-03|PC|Programming
+D7070|P307|Data Cleaning|6589000|4368|2017-06-03|DO|Documentation
+D7145|P307|Data Cleaning|6589000|3318|2017-06-04|DS|Design Work
+D7059|P338|IT Team Reorg|4146000|2326|2017-06-05|DO|Documentation
+D7180|P279|Website Design|4878000|1378|2017-06-05|DO|Documentation
+D7182|P307|Data Cleaning|6589000|4900|2017-06-05|DS|Design Work
+D7118|P287|Data Retrofit|2052000|8472|2017-06-05|DO|Documentation
+D7067|P368|SQL Query Reporting|5594000|7714|2017-06-07|PC|Programming
+D7120|P368|SQL Query Reporting|5594000|5065|2017-06-09|DO|Documentation
+D7067|P279|Website Design|4878000|3459|2017-06-13|DO|Documentation
+D7118|P264|Security Penetration Testing|3994000|4515|2017-06-13|DO|Documentation
+D7118|P338|IT Team Reorg|4146000|7921|2017-06-15|PC|Programming
+D7118|P264|Security Penetration Testing|3994000|8198|2017-06-16|DS|Design Work
+D7145|P264|Security Penetration Testing|3994000|2523|2017-06-17|PC|Programming
+D7067|P368|SQL Query Reporting|5594000|1544|2017-06-20|DS|Design Work
+D7118|P279|Website Design|4878000|1248|2017-06-23|DO|Documentation
+D7118|P307|Data Cleaning|6589000|7903|2017-06-24|PC|Programming
+D7190|P287|Data Retrofit|2052000|6579|2017-06-25|PC|Programming
+D7145|P338|IT Team Reorg|4146000|5969|2017-06-28|DS|Design Work
+D7125|P338|IT Team Reorg|4146000|7740|2017-06-29|DO|Documentation
+D7118|P307|Data Cleaning|6589000|1940|2017-07-01|DS|Design Work
+D7118|P338|IT Team Reorg|4146000|7764|2017-07-02|PC|Programming
+D7120|P338|IT Team Reorg|4146000|8044|2017-07-04|DO|Documentation
+D7120|P287|Data Retrofit|2052000|2968|2017-07-04|DO|Documentation
+D7180|P264|Security Penetration Testing|3994000|4758|2017-07-04|DS|Design Work
+D7070|P307|Data Cleaning|6589000|4758|2017-07-06|DS|Design Work
+D7120|P338|IT Team Reorg|4146000|7049|2017-07-07|DS|Design Work
+D7120|P264|Security Penetration Testing|3994000|1545|2017-07-08|DS|Design Work
+D7190|P307|Data Cleaning|6589000|7207|2017-07-08|DS|Design Work
+D7120|P287|Data Retrofit|2052000|6994|2017-07-08|DS|Design Work
+D7180|P338|IT Team Reorg|4146000|7186|2017-07-09|DO|Documentation
+D7059|P279|Website Design|4878000|8404|2017-07-12|PC|Programming
+D7180|P264|Security Penetration Testing|3994000|8010|2017-07-12|DO|Documentation
+D7070|P287|Data Retrofit|2052000|8956|2017-07-16|PC|Programming
+D7118|P368|SQL Query Reporting|5594000|3716|2017-07-17|DS|Design Work
+D7182|P307|Data Cleaning|6589000|8762|2017-07-19|DS|Design Work
+D7120|P264|Security Penetration Testing|3994000|5971|2017-07-19|DS|Design Work
+D7182|P279|Website Design|4878000|4547|2017-07-21|PC|Programming
+D7120|P368|SQL Query Reporting|5594000|8511|2017-07-21|PC|Programming
+D7145|P368|SQL Query Reporting|5594000|8998|2017-07-22|PC|Programming
+D7125|P279|Website Design|4878000|4420|2017-07-25|DS|Design Work
+D7180|P279|Website Design|4878000|4276|2017-07-27|DO|Documentation
+D7070|P287|Data Retrofit|2052000|5333|2017-07-27|PC|Programming
+D7120|P287|Data Retrofit|2052000|9103|2017-07-31|DO|Documentation
+D7067|P264|Security Penetration Testing|3994000|9397|2017-08-01|PC|Programming
+D7070|P368|SQL Query Reporting|5594000|9911|2017-08-02|DS|Design Work
+D7120|P287|Data Retrofit|2052000|8779|2017-08-05|DO|Documentation
+D7120|P264|Security Penetration Testing|3994000|2424|2017-08-07|DO|Documentation
+D7145|P368|SQL Query Reporting|5594000|4218|2017-08-07|DO|Documentation
