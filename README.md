@@ -65,3 +65,61 @@ According to the highlighted section, only about 23% of all the shipments in thi
 
 Overall, with this specific dataset of shipments, the company could have netted an additional $5,615.50 if they would have utilized the regional insurance cost rather than the larger insurance cost per shipment. 
 
+
+
+
+
+           ----------------------------------------------------------------
+
+### one of the Featured InClass Assignment
+
+
+
+<img width="680" alt="Screen Shot 2020-09-14 at 4 14 53 AM" src="https://user-images.githubusercontent.com/34618387/93067474-e21b4800-f640-11ea-9227-8760eafedaab.png">
+
+
+#### 2.SQL queries 
+
+1.	select distinct concat(FirstName, ‘ ‘, LastName) as Professor_Name 
+from person_dim pd 
+inner join schedule_fact sf on pd.person_dk = sf.student_dk 
+where person_dk in (select professor_dk from schedule_fact); 
+ 
+
+
+#### 2.	select concat(SemesterName, ‘ ‘, sem_year) as Semester, 
+(count(course_dk)/count(distinct(student_dk))) as AvgCoursesTaken 
+from schedule_fact sf, semester_dim sd 
+where sf.semester_dk = sd.semester_dk 
+group by Semester; 
+ 
+#### 3.	select sf.loc_dk, concat(sd.SemesterName, ‘ ‘, sd.sem_year) as Semester, 
+(sum(sf.cnt)/ld.SeatCapacity) as RoomUtilization, 
+ld.RoomCode, ld.BuildingName 
+from schedule_fact sf 
+inner join location_dim ld on sf.loc_dk = ld.loc_dk 
+Inner join semester_dim sd on sf.semester_dk = sd.semester_dk 
+group by sf.loc_dk, Semester, ld.BuildingName, ld.RoomCode 
+order by Semester; 
+ 
+#### 3.	Statement of Granularity for the fact tables 
+One row per individual student performance rating in each course taken every semester. 
+ 
+ 
+#### 4.	Statement of Dimensional History applied to each dimension table 
+Type 0: N/A 
+Type 1: student_junk_dim, professor_junk_dim, person_junk_dim 
+Type 2: camp_buil_room_dim, person_dim, course_dim 
+Type 3: N/A 
+
+
+
+     --------------------------------------------------------------------
+
+
+
+
+<img width="530" alt="Screen Shot 2020-09-14 at 4 19 21 AM" src="https://user-images.githubusercontent.com/34618387/93068002-89987a80-f641-11ea-8467-2b5a674de613.png">
+<img width="533" alt="Screen Shot 2020-09-14 at 4 19 30 AM" src="https://user-images.githubusercontent.com/34618387/93068007-8b623e00-f641-11ea-965a-540c2d137fb4.png">
+
+
