@@ -123,3 +123,8 @@ Type 3: N/A
 <img width="533" alt="Screen Shot 2020-09-14 at 4 19 30 AM" src="https://user-images.githubusercontent.com/34618387/93068007-8b623e00-f641-11ea-965a-540c2d137fb4.png">
 
 
+<img width="870" alt="Screen Shot 2020-09-14 at 4 23 04 AM" src="https://user-images.githubusercontent.com/34618387/93068503-3115ad00-f642-11ea-9940-f266483df2c9.png">
+<img width="786" alt="Screen Shot 2020-09-14 at 4 23 26 AM" src="https://user-images.githubusercontent.com/34618387/93068509-3246da00-f642-11ea-8502-2f12d2078979.png">
+<img width="815" alt="Screen Shot 2020-09-14 at 4 23 50 AM" src="https://user-images.githubusercontent.com/34618387/93068515-34109d80-f642-11ea-91d0-4a1619a87129.png">
+
+
